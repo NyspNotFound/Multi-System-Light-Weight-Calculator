@@ -13,3 +13,4 @@ Also be weary, I swear a lot in my source code.
 
 
 That's about it really...
+And please, be welcome to make fun of my beginner's code all you want!
